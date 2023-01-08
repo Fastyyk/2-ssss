@@ -1,3 +1,6 @@
+.Body{
+background-color: rgb(233, 229, 229);
+}
 .clasprof{
     position: absolute;
 width: 80px;
@@ -56,7 +59,7 @@ color: white;
 width: 43px;
 height: 16px;
 left: 126px;
-top: 365px;
+top: 360px;
 
 font-family: 'Spartan';
 font-style: normal;
@@ -74,16 +77,256 @@ color: #919191;
 position: absolute;
 left: 3.52%;
 right: 95.47%;
-top: 41.45%;
-bottom: 58.47% 
+top: 365px;
+bottom: 58.47%
 }
 .Fon{
     position: absolute;
 width: 46px;
 height: 44px;
 left: 35px;
-top: 349px;
+top: 355px;
 
 background: #FFFFFF;
 border-radius: 15px;
 }
+
+.Fon2{
+    position: absolute;
+    width: 46px;
+    height: 44px;
+    left: 35px;
+    top: 432px;
+    
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+.Fon3{
+position: absolute;
+width: 46px;
+height: 44px;
+left: 35px;
+top: 516px;
+
+background: #FFFFFF;
+border-radius: 15px;
+}
+
+.Tred{
+    position: absolute;
+    left: 3.4%;
+    right: 95.35%;
+    top: 445px;
+    bottom: 48.33%;
+}
+.Setin{
+    position: absolute;
+width: 18px;
+height: 18px;
+left: 49px;
+top: 529px;
+}
+
+.Treading{
+    position: absolute;
+    width: 67px;
+    height: 16px;
+    left: 114px;
+    top: 435px;
+    
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #919191;
+}
+.Settings{
+    position: absolute;
+    width: 61px;
+    height: 16px;
+    left: 117px;
+    top: 520px;
+    
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #919191;
+}
+.rek{
+    position: absolute;
+    width: 188px;
+    height: 274px;
+    left: 35px;
+    top: 572px;
+}
+
+
+
+.Fons{
+    position: absolute;
+width: 1121px;
+height: 794px;
+left: 254px;
+top: 53px;
+border-radius: 25px;
+background-color: #FFFFFF;
+}
+.Welk{
+    position: absolute;
+width: 320px;
+height: 130px;
+left: 5%;
+top: 50px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 65px;
+/* or 135% */
+
+
+color: #000000;
+}
+.Welk2{
+    position: absolute;
+width: 62px;
+height: 66px;
+left: 28%;
+top: 117px;
+
+background: url(drooling-face-emoji-removebg-preview.png);
+}
+
+
+.al1{
+    position: absolute;
+width: 100px;
+height: 160px;
+left: 314px;
+top: 262px;
+
+background: #ffffff;
+box-shadow: 0px 4px 46px rgba(0, 0, 0, 0.1);
+border-radius: 60px;
+}
+.al2{
+    position: absolute;
+    width: 100px;
+    height: 160px;
+    left: 429px;
+    top: 264px;
+    
+    background: #F3F3F3;
+    border-radius: 60px;
+}
+.al3{
+
+    position: absolute;
+    width: 100px;
+    height: 160px;
+    left: 544px;
+    top: 260px;
+    
+    background: #F3F3F3;
+    border-radius: 60px;
+}
+.al4{
+    position: absolute;
+    width: 100px;
+    height: 160px;
+    left: 659px;
+    top: 262px;
+    
+    background: #F3F3F3;
+    border-radius: 60px;
+}
+.al5{
+
+    position: absolute;
+    width: 100px;
+    height: 160px;
+    left: 774px;
+    top: 262px;
+    
+    background: #F3F3F3;
+    border-radius: 60px;
+}
+.al6{
+    position: absolute;
+    width: 100px;
+    height: 160px;
+    left: 889px;
+    top: 261px;
+    
+    background: #F3F3F3;
+    border-radius: 60px;
+}
+.tov1{
+    position: absolute;
+    width: 82px;
+    height: 60px;
+    left: 323px;
+    top: 292px;
+    
+    background: url(grilled-chicken-vector-1635139-removebg-preview.png);
+}
+.tov2{
+    position: absolute;
+    width: 104px;
+    height: 101px;
+    left: 425px;
+    top: 261px;
+    
+    background: url(cartoon-burger-3d-model-max-obj-fbx-removebg-preview.png);
+}
+.tov3{
+    position: absolute;
+    width: 62px;
+    height: 60px;
+    left: 568px;
+    top: 286px;
+    
+    background: url(pizza.png);
+}
+.tov4{
+    position: absolute;
+    width: 95px;
+    height: 88px;
+    left: 662px;
+    top: 272px;
+    
+    background: url(fresh-salad-breakfast-food-element-isolated-icon-simple-realistic-flat-vector-colorful-drawing-white-background-78913531-removebg-preview.png);
+}
+.tov5{
+    position: absolute;
+    width: 80px;
+    height: 76px;
+    left: 784px;
+    top: 273px;
+    
+    background: url(delicious-donut-3d-illustration_92242-616-removebg-preview.png);
+}
+.tov6{
+    position: absolute;
+    width: 51px;
+    height: 72px;
+    left: 913px;
+    top: 272px;
+    
+    background: url(drinks-3100496-2589419.png);
+}
+
+
+
+
