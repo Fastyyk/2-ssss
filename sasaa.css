@@ -274,59 +274,190 @@ border-radius: 60px;
 }
 .tov1{
     position: absolute;
-    width: 82px;
-    height: 60px;
-    left: 323px;
-    top: 292px;
-    
+    left: 10px;
+    top: 33px;
     background: url(grilled-chicken-vector-1635139-removebg-preview.png);
 }
 .tov2{
     position: absolute;
-    width: 104px;
-    height: 101px;
-    left: 425px;
-    top: 261px;
-    
+     margin-right: 0px;
+    margin-bottom: 40px;
     background: url(cartoon-burger-3d-model-max-obj-fbx-removebg-preview.png);
 }
 .tov3{
     position: absolute;
-    width: 62px;
-    height: 60px;
-    left: 568px;
-    top: 286px;
-    
+   left: 20px;
+    top: 33px;
     background: url(pizza.png);
 }
 .tov4{
     position: absolute;
-    width: 95px;
-    height: 88px;
-    left: 662px;
-    top: 272px;
-    
+    left: 2px;
+    top: 13px;
     background: url(fresh-salad-breakfast-food-element-isolated-icon-simple-realistic-flat-vector-colorful-drawing-white-background-78913531-removebg-preview.png);
 }
 .tov5{
     position: absolute;
-    width: 80px;
-    height: 76px;
-    left: 784px;
-    top: 273px;
+    left: 10px;
+    top: 15px;
     
     background: url(delicious-donut-3d-illustration_92242-616-removebg-preview.png);
 }
 .tov6{
     position: absolute;
-    width: 51px;
-    height: 72px;
-    left: 913px;
-    top: 272px;
-    
+    margin-left: 15px;
     background: url(drinks-3100496-2589419.png);
 }
+.All{
+    position: absolute;
+width: 26px;
+height: 39px;
+color: #000000;
+left: 35%;
+top: 100px;
+}
+.Burger{
+    position: absolute;
+width: 52px;
+height: 39px;
+color: #585858;
+left: 30%;
+top: 100px;
+}
+.Pizza{
+    position: absolute;
+width: 42px;
+height: 39px;
+/* or 464% */
+color: #585858;
+left: 32%;
+top: 100px;
+}
+.salads{
+    position: absolute;
+width: 52px;
+height: 39px;
+/* or 464% */
+color: #585858;
+left: 30%;
+top: 100px;
+}
+.Donut{
+    position: absolute;
+width: 47px;
+height: 39px;
+/* or 464% */
+color: #585858;
+left: 30%;
+top: 100px;
+}
+.Drinks{
+    position: absolute;
+width: 47px;
+height: 39px;
+/* or 464% */
+color: #585858;
+left: 30%;
+top: 100px;
+}
+.Sear{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 685px;
+top: 103px;
+}
+.PZ{
+    position: absolute;
+    width: 71px;
+    height: 72px;
+    left: 1080px;
+    top: 223px;
+    
+    background: url(bitten-apple-3d-icon-small-front.png);
+}
+.PZ1{
+    
+    position: absolute;
+    width: 240px;
+    height: 158px;
+    left: 1061px;
+    top: 262px;
+    
+    background: #AB97F3;
+    border-radius: 30px;
+}
+.PZ2{
+    position: absolute;
+    width: 236px;
+    height: 198px;
+    left: 1130px;
+    top: 170px;
+    
+    background: url(cartoon-burger-3d-model-max-obj-fbx-removebg-preview.png);
+    filter: drop-shadow(7px 7px 15px rgba(0, 0, 0, 0.25));
+    transform: rotate(-31.9deg);
+}
+.PZ3{
+    position: absolute;
+    width: 38px;
+    height: 35px;
+    left: 1291.42px;
+    top: 300px;
+    
+    background: url(cheese.png);
+    transform: rotate(-13.58deg);
+}
+.PZ4{
+    position: absolute;
+    width: 42px;
+    height: 44px;
+    left: 1160px;
+    top: 273px;
+    
+    background: url(orange-3d-icon-small.png);
+}
+.PZ5{
+    position: absolute;
+    width: 14.95px;
+    height: 14.95px;
+    left: 1172.6px;
+    top: 225.45px;
+    
+    background: url(flame (1).png);
+}
+.off{
+    position: absolute;
+width: 120px;
+height: 27px;
+left: 1083px;
+top: 290px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
 
 
+color: #FFFFFF;
+
+}
+.The{
+    position: absolute;
+width: 176px;
+height: 16px;
+left: 1083px;
+top: 327px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
 
 
+color: #FFFFFF;
+}
